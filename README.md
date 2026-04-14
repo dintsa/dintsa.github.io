@@ -1,2 +1,2 @@
 # dintsa.github.io
-web portflio
+web portofolio
